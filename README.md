@@ -22,7 +22,7 @@ SpotOrderNum: The number of spot orders
 
 VehicleNum_each_Order: The number of vehicles in each order
 
-VehicleLength_each_Order: The length of vehicles in each order (in length unit)
+VehicleLength_each_Order: The length of a vehicle in each order (in length unit)
 
 Origin_each_Order: The origin port of each order
 
